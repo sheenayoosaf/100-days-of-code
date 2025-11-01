@@ -1,1 +1,14 @@
-# 100-days-of-code
+# 100 Days of Code Challenge 🚀
+
+## Goal
+To build strong AI, Image Processing, and Genomics AI skills in 100 days.
+
+## Rules
+- Code for at least 1 hour every day.
+- Log progress daily in a separate file.
+- Push code and updates to GitHub daily.
+
+## Progress Log
+| Day | Date | Focus | Link |
+|-----|------|--------|------|
+| 1 | 2025-11-01 | Setup repo and plan | Coming soon... |
