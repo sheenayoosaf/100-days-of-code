@@ -1,7 +1,7 @@
 # 100 Days of Code Challenge 🚀
 
 ## Goal
-To build strong AI, Image Processing, and Genomics AI skills in 100 days.
+To build strong Python programming skills in 100 days — covering core Python AI, Image Processing, and Genomics AI skills in 100 days.
 
 ## Rules
 - Code for at least 1 hour every day.
