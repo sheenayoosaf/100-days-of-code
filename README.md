@@ -8,7 +8,9 @@ To build strong Python programming skills in 100 days — covering core Python A
 - Log progress daily in a separate file.
 - Push code and updates to GitHub daily.
 
-## Progress Log
+
+## Progression Log
 | Day | Date | Focus | Link |
 |-----|------|--------|------|
-| 1 | 2025-11-01 | Setup repo and plan | Coming soon... |
+| 1 | 2025-11-01 | Environment setup (VS Code, Python) + Basic Python | Done ✅ |
+
