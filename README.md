@@ -13,4 +13,7 @@ To build strong Python programming skills in 100 days — covering core Python A
 | Day | Date | Focus | Link |
 |-----|------|--------|------|
 | 1 | 2025-11-01 | Environment setup (VS Code, Python) + Basic Python | Done ✅ |
-
+| 2 | 2025-11-02 | basic neural network from scratch Python)  Done ✅ |
+| 3 | 2025-11-03 |  basic neural network from scratch  using NumPy Python) | Done ✅ |
+| 4| 2025-11-04 | basic neural network from scratch Two-Layer Forward Propagation Python)  Done ✅ |
+| 5| 2025-11-05| basic neural network from scratch with training + loss graph plottingPython)  Done ✅ |
