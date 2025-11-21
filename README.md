@@ -17,4 +17,5 @@ To build strong Python programming skills in 100 days — covering core Python A
 | 3 | 2025-11-03 |  basic neural network from scratch  using NumPy Python) | Done ✅ |
 | 4| 2025-11-04 | basic neural network from scratch Two-Layer Forward Propagation Python)  Done ✅ |
 | 5| 2025-11-05| basic neural network from scratch with training + loss graph plottingPython)  Done ✅ |
-| 6 | 2025-11-05| basic neural network with forward and backward propogation Done ✅ |
+| 6 | 2025-11-06| basic neural network with forward and backward propogation Done ✅ |
+| 6 | 2025-11-07
